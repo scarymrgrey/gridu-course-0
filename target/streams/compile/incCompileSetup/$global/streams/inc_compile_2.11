@@ -1,0 +1,468 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.12
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+29 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class
+binary dependencies:
+6 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+29 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$10
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$11
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$12
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$4$$anonfun$6
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$7
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$8$$anonfun$apply$2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$9$$anonfun$apply$3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$dfSchema$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$row$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$4
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$anonfun$timeUsageGroupedTyped$5
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator1$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator2$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsage$$typecreator3$1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage.TimeUsageRow$
+used names:
+294 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $m$untyped
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $typecreator3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> $u
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> &&
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> *
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> +
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> /
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ::
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <=
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <byname>
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <init>
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> <repeated>
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ==
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ===
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> >=
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ?0
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> A1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AbstractFunction6
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Any
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> AnyRef
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Array
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ArrayOps
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> B
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> B1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Boolean
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Builder
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> C
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> CanBuildFrom
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Class
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassLoader
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassSymbol
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ClassTag
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Col
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Coll
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Column
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ColumnName
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataFrame
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DataType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Dataset
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Double
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> DoubleType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Encoder
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Function2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> GenTraversableOnce
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IN
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Inclusive
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexOutOfBoundsException
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> IndexedSeq
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Int
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Internal
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Iterable
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Iterator
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> JavaUniverse
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> K
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> KeyValueGroupedDataset
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> List
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Long
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Map
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> MatchError
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Metadata
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Mirror
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ModuleSymbol
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nil
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> None
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Nothing
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Object
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Option
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Ordering
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Path
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Paths
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Predef
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Product
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RDD
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Range
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ReificationSupportApi
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RelationalGroupedDataset
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RichDouble
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> RichInt
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Row
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ScalaRunTime
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Seq
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Serializable
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SingleType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Singleton
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Some
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkContext
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> SparkSession
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Statics
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> String
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringContext
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringOps
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StringType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructField
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> StructType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Symbol
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T0
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T4
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T5
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> T6
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> That
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ThisType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsage
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TimeUsageRow
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple4
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Tuple6
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Type
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeCreator
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeRef
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeSymbol
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypeTag
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> TypedColumn
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> U3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URI
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> URL
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Unit
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> Universe
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _$7
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _2
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _3
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _4
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> _toString
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> acc
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> age
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ageProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> agg
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> anyHash
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apache
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> appName
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> apply
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> as
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asInstanceOf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asModule
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> asType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> augmentString
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> avg
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> between
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> builder
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> canBuildFrom
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> categoryMappings
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> classifiedColumns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> collection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columnNames
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> columns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> config
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createDataFrame
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> createOrReplaceTempView
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> d
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> data
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dataFrame
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> df
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> dfSchema
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> divide
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleHash
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> doubleWrapper
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> drop
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> empty
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> eq
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> exists
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> expressions
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> file
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalDf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> finalizeHash
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> first
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> flatMap
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> foldLeft
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> fsPath
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> functions
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> get
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClass
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getClassLoader
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrCreate
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getOrElse
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> getResource
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupBy
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groupByKey
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> groups
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> head
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headOption
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> headerColumns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> i
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> immutable
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> implicits
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> index
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> initDf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> intWrapper
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> internal
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> isInstanceOf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> it
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> java
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> line
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> map
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapPartitionsWithIndex
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mapValues
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeClassTag
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> materializeTypeTag
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> math
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> mix
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> moduleClass
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> name
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ne
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> newProductEncoder
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> nio
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> option2Iterable
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> orderBy
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> org
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> other
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherColumns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> otherwise
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> package
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> prefixes
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeeds
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsColumns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> primaryNeedsProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> rdd
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> read
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reduce
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> refArrayOps
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reflect
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> reificationSupport
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> resource
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> results
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> round1
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> row
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtime
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> runtimeMirror
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> s
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scala
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> scalalang
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> schema
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> select
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> selectType
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sex
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sexProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> show
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sortBy
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> spark
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sparkContext
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> split
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> sql
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> startsWith
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticClass
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticModule
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> staticPackage
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summaryDf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> summed
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> symbolToColumn
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tail
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> textFile
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageByLifePeriod
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGrouped
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageGroupedSqlQuery
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummary
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeUsageSummaryDf
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> timeusage
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> to
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toDouble
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toString
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toTypeConstructor
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> toURI
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> tuple
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typed
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> typedProductIterator
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> types
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> unchecked
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> universe
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> viewName
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> when
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> where
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> work
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workColumns
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> working
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> workingStatusProjection
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> x
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> zipWithIndex
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> ||
+product stamps:
+29 items
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$10.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$11.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$12.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$2.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$3.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5$$anonfun$apply$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$5.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4$$anonfun$6.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$4.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$7.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8$$anonfun$apply$2.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$8.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9$$anonfun$apply$3.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$9.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$dfSchema$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$row$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$2.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$3.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$4.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$anonfun$timeUsageGroupedTyped$5.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator1$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator2$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$$typecreator3$1.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage$.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsage.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow$.class -> lastModified(1562257487000)
+/Users/kpolunin/Downloads/timeusage/target/scala-2.11/classes/timeusage/TimeUsageRow.class -> lastModified(1562257487000)
+source stamps:
+1 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> hash(176d7bf85a136e6b2dc198c1eb55f1dfae12bfa1)
+binary stamps:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1554178350000)
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> lastModified(1481872148000)
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> lastModified(1481871925000)
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> lastModified(1481872304000)
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> lastModified(1509673049000)
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> lastModified(1509673056000)
+class names:
+6 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-catalyst_2.11/2.1.0/spark-catalyst_2.11-2.1.0.jar -> org.apache.spark.sql.types.DoubleType$
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar -> org.apache.spark.rdd.RDD
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/apache/spark/spark-sql_2.11/2.1.0/spark-sql_2.11-2.1.0.jar -> org.apache.spark.sql.Dataset
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.11.12/scala-library-2.11.12.jar -> scala.Product
+/Users/kpolunin/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.11.12/scala-reflect-2.11.12.jar -> scala.reflect.api.TypeCreator
+internal apis:
+1 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw6dXyrgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAA3c3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwKZR39HQABm5vdGlmeXNxAH4ADCVVLqd0AARyZWFkc3EAfgAMjoGnonQAB3dvcmtpbmdzcQB+AAwevaWgdAAEd2FpdHNxAH4ADLOh6N90AA5jb3B5JGRlZmF1bHQkMnNxAH4ADGCE0Et0AA0kYXNJbnN0YW5jZU9mc3EAfgAM28hZ6HQAFXRpbWVVc2FnZUdyb3VwZWRUeXBlZHNxAH4ADAfq4zB0AA5jb3B5JGRlZmF1bHQkNXNxAH4ADDoT63d0AAxUaW1lVXNhZ2VSb3dzcQB+AAzjzwvKdAAMcHJvZHVjdEFyaXR5c3EAfgAMpRm+7XQABmVxdWFsc3NxAH4ADGR2NPh0AAlUaW1lVXNhZ2VzcQB+AAzPBWKMdAAMYXNJbnN0YW5jZU9mc3EAfgAMyM78oHQAE3RpbWVVc2FnZUdyb3VwZWRTcWxzcQB+AAxltjLVdAAMc3luY2hyb25pemVkc3EAfgAMVtYRzHQADSRpc0luc3RhbmNlT2ZzcQB+AAwg9rr+dAAGZnNQYXRoc3EAfgAMHdl//HQACGNhbkVxdWFsc3EAfgAMA8Gl03QAEHRpbWVVc2FnZVN1bW1hcnlzcQB+AAw36CFYdAADcm93c3EAfgAMkMtr/HQAEWNsYXNzaWZpZWRDb2x1bW5zc3EAfgAMkAbMBnQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6NRtAHQABG1haW5zcQB+AAyn0FbudAANcHJvZHVjdFByZWZpeHNxAH4ADDngaN50AANhZ2VzcQB+AAz7pbPGdAAEd29ya3NxAH4ADBWEmu50AAlub3RpZnlBbGxzcQB+AAz0JYxNdAAVdGltZVVzYWdlQnlMaWZlUGVyaW9kc3EAfgAMMzEVUXQAEHRpbWVVc2FnZUdyb3VwZWRzcQB+AAx9it7tdAADc2V4c3EAfgAMqyl+rXQADGlzSW5zdGFuY2VPZnNxAH4ADO4ca9R0AAY8aW5pdD5zcQB+AAyA/0NfdAAFc3BhcmtzcQB+AAzlnyuUdAACPT1zcQB+AAw65YLadAAFY2xvbmVzcQB+AAxYJbpddAAYdGltZVVzYWdlR3JvdXBlZFNxbFF1ZXJ5c3EAfgAMcCV92nQACGRmU2NoZW1hc3EAfgAMmrx/lXQABiRpbml0JHNxAH4ADF3qxJ90ABV0aW1lVXNhZ2VTdW1tYXJ5VHlwZWRzcQB+AAyZylxudAAOY29weSRkZWZhdWx0JDNzcQB+AAw8PmcddAAEY29weXNxAH4ADIk06910AAh0b1N0cmluZ3NxAH4ADIWCzrh0AAxwcmltYXJ5TmVlZHNzcQB+AAyhfpX8dAACIT1zcQB+AAyXrZYTdAAIZ2V0Q2xhc3NzcQB+AAwufINUdAAOY29weSRkZWZhdWx0JDFzcQB+AAzT3BnsdAAOY29weSRkZWZhdWx0JDZzcQB+AAz1wZzXdAACbmVzcQB+AAybwt8SdAACZXFzcQB+AAxLHOcJdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMkLDSmHQABW90aGVyc3EAfgAM07R1SnQAAiMjc3EAfgAMy4H1LHQACGZpbmFsaXplc3EAfgAMXBN6anQADnByb2R1Y3RFbGVtZW50c3EAfgAMZGHy6nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AhXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAE3RpbWV1c2FnZS5UaW1lVXNhZ2V1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AJ1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AhUwACWluaGVyaXRlZHEAfgCFTAAHcGFyZW50c3EAfgCFeHEAfgCic3EAfgCddXEAfgCAAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgCGcQB+AI91cQB+AJAAAAAAc3EAfgCSAHEAfgA7dXEAfgCVAAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AKF0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgChc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgC9dXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AqnhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AmHQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4AsVsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AoXNxAH4AsHQABUFycmF5cQB+ALZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AsHQABlN0cmluZ3NxAH4AtHNxAH4At3VxAH4AugAAAANzcQB+ALx0AARqYXZhc3EAfgC8dAAEbGFuZ3EAfgDBc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAJzcQB+ALB0AAZPYmplY3RxAH4A2XNxAH4AsHQAA0FueXEAfgC2c3EAfgCCcQB+AI91cQB+AJAAAAAAc3EAfgCSAHQAFnRpbWV1c2FnZS5UaW1lVXNhZ2VSb3d1cQB+AJUAAAAAfnEAfgCXdAAIQ2xhc3NEZWZ1cQB+AJsAAAAAc3EAfgCdcQB+AKNzcQB+AJ1zcQB+AKVzcQB+AJ11cQB+AIAAAAAAc3EAfgCddXEAfgCAAAAAAHNxAH4AnXVxAH4A1QAAAAZzcQB+ALB0AAxTZXJpYWxpemFibGVzcQB+ALRzcQB+ALd1cQB+ALoAAAACc3EAfgC8cQB+AL9xAH4AwXNxAH4AsHEAfgD6c3EAfgC0c3EAfgC3dXEAfgC6AAAAA3NxAH4AvHEAfgDdc3EAfgC8dAACaW9xAH4AwXNxAH4AsHQAB1Byb2R1Y3RxAH4A+3NxAH4AsHQABkVxdWFsc3EAfgD7c3EAfgCwcQB+AOVzcQB+ALRzcQB+ALd1cQB+ALoAAAADc3EAfgC8cQB+AN1zcQB+ALxxAH4A33EAfgDBc3EAfgCwcQB+AOdxAH4A+3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQACXRpbWV1c2FnZXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa73Nbwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA9L1VzZXJzL2twb2x1bmluL0Rvd25sb2Fkcy90aW1ldXNhZ2UvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBdte/haE25rLcGYwetV8d+uEr+h
+external apis:
+0 items
+source infos:
+1 items
+/Users/kpolunin/Downloads/timeusage/src/main/scala/timeusage/TimeUsage.scala -> 
+AAAAAAAAAAA=
+compilations:
+3 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa72L1m11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9rcG9sdW5pbi9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa722Y1t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9rcG9sdW5pbi9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABa73Nbwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPS9Vc2Vycy9rcG9sdW5pbi9Eb3dubG9hZHMvdGltZXVzYWdlL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
